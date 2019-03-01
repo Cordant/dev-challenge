@@ -13,13 +13,14 @@ Based on this [Prototype](https://xd.adobe.com/view/aff4126f-c5ae-4b34-a517-d3ff
 Use [JSON Placeholder](https://jsonplaceholder.typicode.com/) as your data source, specifically */users*, */albums*, */photos*.
 
 **You may** :
-  * Start from scratch and ignore our code
+  * Start from scratch and ignore our code (Angular, React, Vue, jQuery are welcome)
   * Call JSON Placeholder from the client-side or the server-side.
   * Copy code from the web, however please comment your code with where you took it from. We'll be asking questions on how / why you chose to use it and how you modified it to work for you.
   * Get in touch anytime if you have questions or concerns
   * Consider extending the functionality outlined
 
 **You Must** :
+  * Use Javascript
   * Bring a laptop with you to the interview
   * Push your code to a Git Repo
 
